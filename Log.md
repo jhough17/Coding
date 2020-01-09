@@ -1,4 +1,4 @@
-Day 1: January 9th, 2020
+** Day 1: January 9th, 2020
 
 Current Project: CodingBat
 
