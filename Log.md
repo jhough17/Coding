@@ -8,3 +8,15 @@
 
 **Goal for tomorrow:** Get started on a long term project (also pick which language I want to use, Java or Python),
 and get started on Free Code Camp.
+
+-------------------------------------------------------------------------------------
+
+### Day 2: January 12th, 2020
+
+**Current Project:** 
+
+**Completed today:** 
+
+**Questions:**
+
+**Goal for tomorrow:** 
